@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Hugo! 👋</h1>
+<div align="center">
+  <h1>Hi, I'm Hugo! 👋</h1>
+  <p><i>Updating...</i></p>
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EBA8B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Deep+Learning+Enthusiast;Specializing+in+CV+%26+NLP;Transforming+Algorithms+into+Solutions" alt="Typing SVG" />
@@ -31,29 +35,22 @@ My ultimate goal is to bridge the gap between complex algorithms and practical a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-*(Note: Added Docker as it is a highly recommended tool for deploying AI models).*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕵️‍♂️ [AI vs. Real Image Detection System](#) *(Link to repo)*
-A deep learning system designed to distinguish between authentic photographs and AI-generated images.
-* **Architecture:** Implemented a hybrid model combining **EfficientNet** and Fast Fourier Transform (**FFT**) for frequency analysis, alongside a **Vision Transformer (ViT)** for comparative performance.
-* **Impact:** Successfully analyzed spatial and frequency domain artifacts to detect deepfakes.
+### 🕵️‍♂️ [AI vs. Real Image Detection System](#) *([Link to repo](https://github.com/hugo-tng/deepfake-image-detector))*
+*Coming soon...*
 
-### 🌐 [Deepfake Detection Web Platform](#) *(Link to repo)*
-* **Tech:** Django, PyTorch, HTML/CSS
-* **Description:** Developed an interactive web interface for the AI Image Detection system. Users can upload images and receive real-time classification results, demonstrating the model's practical deployment capability.
+### 🌐 [Deepfake Detection Web Platform](#) *([Link to repo](https://github.com/hugo-tng/ai-face-detection-web))*
+*Coming soon...*
 
-### 📖 [Vietnamese NLP Fine-tuning Suite](#) *(Link to repo)*
-Fine-tuned state-of-the-art pre-trained models for diverse Vietnamese Natural Language Processing tasks:
-* **Toxic Text Classification:** Fine-tuned **PhoBERT**.
-* **Product Q&A Chatbot:** Adapted **Qwen3-0.6B** for e-commerce context.
-* **Text Summarization:** Leveraged **ViT5** for concise content extraction.
+### 📖 [Vietnamese NLP Fine-tuning Suite](#) *([Link to repo](https://github.com/hugo-tng/NLP_Final_Project))*
+*Coming soon...*
 
-### 👁️ [Optical Character Recognition (OCR) System](#) *(Link to repo)*
-* **Description:** Built an end-to-end OCR pipeline capable of detecting and recognizing text from unstructured image data, applying core Computer Vision techniques.
+### 👁️ [Optical Character Recognition (OCR) System](#) *([Link to repo](https://github.com/hugo-tng/ocr-system))*
+*Coming soon...*
 
 ---
 
@@ -72,8 +69,8 @@ Fine-tuned state-of-the-art pre-trained models for diverse Vietnamese Natural La
 
 ## 🤝 Let's Connect!
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/dhao-tng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[duyhaotang04@gmail.com]"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:duyhaotang04@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="30" style="margin: 0 5px;" /></a>
 <a href="https://github.com/hugo-tng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
