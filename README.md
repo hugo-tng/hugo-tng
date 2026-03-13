@@ -1,76 +1,204 @@
+<!-- GREETING + NAME -->
 <div align="center">
-  <h1>Hi, I'm Hugo! 👋</h1>
-  <p><i>Updating...</i></p>
-</div>
 
+## Hi there!👋 Welcome to
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EBA8B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Deep+Learning+Enthusiast;Specializing+in+CV+%26+NLP;Transforming+Algorithms+into+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&duration=100&pause=99999&color=2EBA8B&center=true&vCenter=true&repeat=false&width=400&height=90&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93;%E2%96%91HUGO%E2%96%91;HUGO" alt="HUGO" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2200&color=5DCAA5&center=true&vCenter=true&width=680&lines=Final-year+CS+Student+%E2%86%92+AI+%2F+ML+Engineer;Building+CV+%26+NLP+systems+from+scratch;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Open+to+internships+%26+collaborations" alt="subtitle" />
+
 </div>
 
 <br/>
 
-## 🧠 About Me
+<!-- BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP%20%26%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=flat-square"/>
+</div>
 
-I am a Computer Science student heavily focused on the AI ecosystem, with a specialized interest in **Computer Vision (CV)** and **Natural Language Processing (NLP)**. I enjoy mastering the entire machine learning pipeline—from architectural design to deep learning model optimization. 
+---
 
-My ultimate goal is to bridge the gap between complex algorithms and practical applications, building high-performance AI solutions that solve real-world problems. Always learning, always optimizing.
+## ⚙️ About Me
 
-## 🛠️ Tech Stack & Skills
+```python
+>>> import hugo
+>>> hugo.initialize()
 
-### Core Knowledge
-`Machine Learning` | `Deep Learning` | `Computer Vision` | `Natural Language Processing` | `Model Optimization`
+Loading profile...  ██████████ 100%
 
-### Languages & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,pytorch,opencv,django&perline=8" />
-  </a>
-</p>
+AI_ENGINEER = {
+    "name"      : "Hugo",
+    "location"  : "Ho Chi Minh City, Vietnam 🇻🇳",
+    "status"    : "Final-year CS Student  [graduation: soon™]",
+    "focus"     : ["Computer Vision", "NLP", "Deep Learning"],
+    "stack"     : ["PyTorch", "HuggingFace", "OpenCV", "Python"],
+    "mission"   : "Build AI systems with real-world impact",
+}
 
-### Libraries & Tools
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+>>> hugo.run()
 
+[✓] Exploring Computer Vision — detection, classification, OCR
+[✓] Fine-tuning Transformers for Vietnamese NLP tasks
+[✓] Packaging ML models toward deployment with Docker
+[✓] Always experimenting. Always breaking things.
+
+System ready.
+Seeking: internships & entry-level AI/ML roles
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs" />
+</div>
+
+<br/>
+
+**AI / ML**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</div>
+
+<br/>
+
+**Tools & DevOps**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,django" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕵️‍♂️ [AI vs. Real Image Detection System](#) *([Link to repo](https://github.com/hugo-tng/deepfake-image-detector))*
-*Coming soon...*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ Deepfake Image Detection</h3>
+      <a href="https://github.com/hugo-tng/deepfake-image-detector">
+        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/badge/Computer%20Vision-2EBA8B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/In%20Progress-EF9F27?style=flat-square"/>
+      <br/><br/>
+      Hybrid Architecture <b>real vs AI-generated images</b>.
+      Training complete — working toward deployment.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ OCR System</h3>
+      <a href="https://github.com/hugo-tng/ocr_system">
+        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/badge/Computer%20Vision-2EBA8B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Completed-1D9E75?style=flat-square"/>
+      <br/><br/>
+      End-to-end pipeline to <b>extract and recognize text</b>
+      from unstructured image documents.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Vietnamese QA Chatbot</h3>
+      <a href="https://github.com/hugo-tng/NLP_Final_Project/tree/main/Chatbot_ProductQA">
+        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Completed-1D9E75?style=flat-square"/>
+      <br/><br/>
+      Fine-tuned Transformer to <b>answer product questions</b>
+      in Vietnamese — low-resource NLP challenge.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Toxic Text Classification</h3>
+      <a href="https://github.com/hugo-tng/NLP_Final_Project/tree/main/Toxic_text_classification_vi">
+        <img src="https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Completed-1D9E75?style=flat-square"/>
+      <br/><br/>
+      <b>PhoBERT</b> fine-tuned to detect toxic content
+      in Vietnamese social media text.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PhoBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
-### 🌐 [Deepfake Detection Web Platform](#) *([Link to repo](https://github.com/hugo-tng/ai-face-detection-web))*
-*Coming soon...*
-
-### 📖 [Vietnamese NLP Fine-tuning Suite](#) *([Link to repo](https://github.com/hugo-tng/NLP_Final_Project))*
-*Coming soon...*
-
-### 👁️ [Optical Character Recognition (OCR) System](#) *([Link to repo](https://github.com/hugo-tng/ocr-system))*
-*Coming soon...*
+<div align="center">
+  <br/>
+  <a href="https://github.com/hugo-tng?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-2EBA8B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugo-tng&show_icons=true&theme=radical" alt="Hugo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-tng&theme=radical" alt="Hugo's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hugo-tng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EBA8B&icon_color=2EBA8B&text_color=C9D1D9&rank_icon=github" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hugo-tng&hide_border=true&background=0D1117&stroke=2EBA8B&ring=2EBA8B&fire=EF4444&currStreakLabel=2EBA8B&sideLabels=9FE1CB&dates=5DCAA5" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-tng&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-tng&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EBA8B&text_color=C9D1D9" height="145"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<p align="center">
-<a href="https://linkedin.com/in/dhao-tng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:duyhaotang04@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="30" style="margin: 0 5px;" /></a>
-<a href="https://github.com/hugo-tng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+*Final-year student looking for AI/ML internships & entry-level opportunities.*
+*Open to collaborations, feedback, or just a chat about AI!*
+
+<br/>
+
+<a href="https://linkedin.com/in/dhao-tng">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:duyhaotang04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/hugo-tng">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+<!--
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hugo-tng&color=2EBA8B&style=flat-square&label=Profile+Views"/>
+  <br/><br/>
+  <i>⭐ "Teaching computers to see and read, because doing it myself was taking too long."</i>
+</div>
+-->
