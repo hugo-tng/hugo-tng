@@ -1,17 +1,12 @@
-<!-- GREETING + NAME -->
+<!-- INTRODUCTION -->
 <div align="center">
-
-## Hi there!👋 Welcome to
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&duration=100&pause=99999&color=2EBA8B&center=true&vCenter=true&repeat=false&width=400&height=90&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93;%E2%96%91HUGO%E2%96%91;HUGO" alt="HUGO" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2200&color=5DCAA5&center=true&vCenter=true&width=680&lines=Final-year+CS+Student+%E2%86%92+AI+%2F+ML+Engineer;Building+CV+%26+NLP+systems+from+scratch;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Open+to+internships+%26+collaborations" alt="subtitle" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0F380F&height=220&section=header&text=HUGO&fontSize=90&fontColor=2EBA8B&animation=fadeIn&desc=Computer%20Vision%20%7C%20NLP%20Engineer&descSize=22&descAlignY=75" alt="HUGO" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2200&color=5DCAA5&center=true&vCenter=true&width=680&lines=Final-year+CS+Student+%E2%86%92+AI+%2F+ML+Engineer;Building+CV+%26+NLP+systems+from+scratch;Ho+Chi+Minh+City%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Open+to+internships+%26+collaborations" alt="subtitle" style="max-width: 100%;" />
 
 </div>
 
-<br/>
-
-<!-- BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -40,6 +35,8 @@ AI_ENGINEER = {
 }
 
 >>> hugo.run()
+
+[>] Hugo AI environment initialized.
 
 [✓] Exploring Computer Vision — detection, classification, OCR
 [✓] Fine-tuning Transformers for Vietnamese NLP tasks
@@ -94,8 +91,8 @@ Seeking: internships & entry-level AI/ML roles
       <img src="https://img.shields.io/badge/Computer%20Vision-2EBA8B?style=flat-square"/>
       <img src="https://img.shields.io/badge/In%20Progress-EF9F27?style=flat-square"/>
       <br/><br/>
-      Hybrid Architecture <b>real vs AI-generated images</b>.
-      Training complete — working toward deployment.
+      Hybrid Architecture (<b>EfficientNet + Frequency Analysis</b>) to classify real vs AI-generated images.<br/>
+      Training complete — actively building Django web demo.
       <br/><br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -115,7 +112,6 @@ Seeking: internships & entry-level AI/ML roles
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
-  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Vietnamese QA Chatbot</h3>
@@ -125,8 +121,7 @@ Seeking: internships & entry-level AI/ML roles
       <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
       <img src="https://img.shields.io/badge/Completed-1D9E75?style=flat-square"/>
       <br/><br/>
-      Fine-tuned Transformer to <b>answer product questions</b>
-      in Vietnamese — low-resource NLP challenge.
+      Fine-tuned <b>Qwen3-0.6B</b> model to act as an e-commerce assistant answering product questions in Vietnamese.
       <br/><br/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -139,8 +134,7 @@ Seeking: internships & entry-level AI/ML roles
       <img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
       <img src="https://img.shields.io/badge/Completed-1D9E75?style=flat-square"/>
       <br/><br/>
-      <b>PhoBERT</b> fine-tuned to detect toxic content
-      in Vietnamese social media text.
+      <b>PhoBERT</b> fine-tuned to detect toxic and offensive content in Vietnamese social media text.
       <br/><br/>
       <img src="https://img.shields.io/badge/PhoBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -160,13 +154,19 @@ Seeking: internships & entry-level AI/ML roles
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugo-tng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EBA8B&icon_color=2EBA8B&text_color=C9D1D9&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hugo-tng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EBA8B&icon_color=2EBA8B&text_color=FFF&rank_icon=github&cache_seconds=1800" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hugo-tng&hide_border=true&background=0D1117&stroke=2EBA8B&ring=2EBA8B&fire=EF4444&currStreakLabel=2EBA8B&sideLabels=9FE1CB&dates=5DCAA5" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=hugo-tng&hide_border=true&background=0D1117&stroke=2EBA8B&ring=2EBA8B&fire=EF4444&currStreakLabel=2EBA8B&sideLabels=9FE1CB&dates=5DCAA5&sideNums=FFF&currStreakNum=FFF" height="160"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-tng&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EBA8B&text_color=C9D1D9" height="145"/>
+</div>
+
+<br/>
+ 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugo-tng&bg_color=0D1117&color=2EBA8B&line=2EBA8B&point=9FE1CB&area=true&area_color=083D27&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -193,12 +193,9 @@ Seeking: internships & entry-level AI/ML roles
 </a>
 
 </div>
-
----
-<!--
+<!-- FOOTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hugo-tng&color=2EBA8B&style=flat-square&label=Profile+Views"/>
   <br/><br/>
-  <i>⭐ "Teaching computers to see and read, because doing it myself was taking too long."</i>
+  <i>⭐ "Build Models - Build Future!"</i>
 </div>
--->
