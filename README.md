@@ -43,6 +43,11 @@ AI_ENGINEER = {
 [✓] Packaging ML models toward deployment with Docker
 [✓] Always experimenting. Always breaking things.
 
+[~] Currently exploring:
+    ├── RAG & LLM pipelines
+    ├── DevOps & CI/CD workflows
+    └── Docker for ML deployment
+
 System ready.
 Seeking: internships & entry-level AI/ML roles
 ```
